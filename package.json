@@ -25,12 +25,11 @@
     "React",
     "GA",
     "Google Analytics",
-    "Universal Analytics"
+    "Universal Analytics",
+    "africasokoni"
   ],
-  "author": "@adamlofting",
-  "contributors": [
-    "@toolness"
-  ],
+  "author": "@felixnyamweya",
+  "contributors": [],
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/sokoni-online/react-ga/issues"
